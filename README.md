@@ -1,6 +1,7 @@
 
 <img width="1440" alt="Screen Shot 2022-03-16 at 2 03 54 PM" src="https://user-images.githubusercontent.com/75461281/158668313-91b4e96d-ca8f-4786-90db-6369a6e84056.png">
-### the Date object JavaScript
+
+### Date and Time object in JavaScript
 date and time are a object in javascript with myriad of properties and methods attached to them. We can create a date object with object constructor, new, like so:
 `
 new Date();
